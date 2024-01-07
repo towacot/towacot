@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @towacott
-- 👀 I’m interested in AI.
-- 🌱 I'm currently learning front-end web development but... I haven't made much progress yet.
+- 👋 Hi, I’m @towacott
+- 👋 Hi, I’m @towacott
+- 👋 Hi, I’m @towacott
+- 👋 Hi, I’m @towacott
+
 
 <!---
 towacott/towacott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
